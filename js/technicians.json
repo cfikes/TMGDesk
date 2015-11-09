@@ -1,0 +1,9 @@
+{ 
+    "Technicians" : [
+        {"name": "Chris Fikes"},
+        {"name": "Abdul Perez"},
+        {"name": "Avery Goldman"},
+        {"name": "Rodney Rivera"}
+    ]
+    
+}

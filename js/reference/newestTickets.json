@@ -1,0 +1,9 @@
+{
+    "tickets" :[
+        {"ID":"00001","DateOpen":"2015-04-15", "Creator":"George Bush","Status":"Assigned"},
+        {"ID":"00002","DateOpen":"2015-04-22", "Creator":"Bob Dole","Status":"Stale"},
+        {"ID":"00003","DateOpen":"2015-05-01", "Creator":"Michael Dukakas","Status":"Assigned"},
+        {"ID":"00004","DateOpen":"2015-05-02", "Creator":"Al Gore","Status":"Unassigned"},
+        {"ID":"00005","DateOpen":"2015-05-03", "Creator":"Dan Quale","Status":"Assigned"}
+    ]
+}

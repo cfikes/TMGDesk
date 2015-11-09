@@ -1,0 +1,19 @@
+{
+    "FullName" : "John Doe",
+    "Telephone" : "4099514050",
+    "Email" : "john.doe@modernusa.com",
+    "IssueType" : "Configuration",
+    "Severity" : "Persistent",
+    "Details" : "My outlook signatute is missing, please help me.",
+    "Screenshot" : "NONE",
+    "TicketID" : "20150501001",
+    "DateOpened" : "2015-05-01",
+    "DateClosed" : "",
+    "Status" : "Assigned",
+    "Technician" : "Chris Fikes",
+    "ResolutionNoteID" : "",
+    "MetaWinUser" : "chrisf",
+    "MetaComputer" : "tmg7150",
+    "MetaRemoteIP" : "192.168.1.173",
+    "MetaTags" : "Outlook Email Signature Configuration"
+}

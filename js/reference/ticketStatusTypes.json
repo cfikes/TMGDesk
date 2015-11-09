@@ -1,0 +1,10 @@
+{ 
+    "StatusTypes" : [
+        {"name": "Unassigned"},
+        {"name": "Assigned"},
+        {"name": "Awaiting Approval"},
+        {"name": "Awaiting Parts"},
+        {"name": "Closed"}
+    ]
+    
+}

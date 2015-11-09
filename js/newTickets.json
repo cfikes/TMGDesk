@@ -1,0 +1,12 @@
+{
+	"cols" : [
+		{"type":"string"},{"type":"number"}
+		],
+	"rows" : [
+		{"c": [{"v": "Monday"},{"v":10}]},
+		{"c": [{"v": "Tuesday"},{"v":17}]},
+		{"c": [{"v": "Wednesday"},{"v":15}]},
+		{"c": [{"v": "Thursday"},{"v":20}]},
+		{"c": [{"v": "Friday"},{"v":8}]}
+	]
+}
